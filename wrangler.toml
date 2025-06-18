@@ -1,0 +1,7 @@
+name = "samgong-h-vote"
+type = "javascript"
+account_id = "120ee1adf01c85f1378d120988cb7647"
+workers_dev = true
+compatibility_date = "2025-06-18"
+
+functions = "./functions"
